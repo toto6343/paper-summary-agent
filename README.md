@@ -184,17 +184,14 @@ A2: GLUE 벤치마크와 자체 데이터셋을 사용하여 성능을 평가했
 - 업로드된 PDF는 임시로만 처리되며 서버에 저장되지 않음
 - 대화 내용은 세션 동안만 메모리에 저장
 
-## 🤝 기여하기
-
-1. Fork 프로젝트
-2. Feature 브랜치 생성 (`git checkout -b feature/amazing-feature`)
-3. 변경사항 커밋 (`git commit -m 'Add amazing feature'`)
-4. 브랜치에 Push (`git push origin feature/amazing-feature`)
-5. Pull Request 생성
-
 ## 📝 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 있습니다.
+
+## 🔗 관련 링크
+
+- **저장소**: [https://github.com/toto6343/paper-summary-agent](https://github.com/toto6343/paper-summary-agent)
+- **Issues**: [https://github.com/toto6343/paper-summary-agent/issues](https://github.com/toto6343/paper-summary-agent/issues)
 
 ## 🙏 사용된 기술
 
