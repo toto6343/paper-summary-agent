@@ -20,8 +20,8 @@ PDF 논문을 자동으로 요약하고 질문에 답변하는 AI 기반 도구�
 
 ### 1. 저장소 클론
 ```bash
-git clone https://github.com/[사용자명]/paper_summarizer.git
-cd paper_summarizer
+git clone https://github.com/toto6343/paper-summary-agent.git
+cd paper_summary_agent
 ```
 
 ### 2. 가상환경 생성 및 활성화
