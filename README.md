@@ -208,3 +208,8 @@ A2: GLUE 벤치마크와 자체 데이터셋을 사용하여 성능을 평가했
 ---
 
 > 💡 **팁**: 처음 사용하시는 경우 작은 크기의 PDF로 테스트해보시기를 권장합니다.
+
+## 🖥️ 실행 화면
+<img width="1812" height="526" alt="Image" src="https://github.com/user-attachments/assets/844cbd62-117f-49ef-ae10-6d49d7d7ab16" />
+<img width="1817" height="704" alt="Image" src="https://github.com/user-attachments/assets/b7c0429d-5492-464b-b0c5-b92fe5c94850" />
+
