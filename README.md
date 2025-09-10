@@ -76,8 +76,9 @@ streamlit run paper_agent.py
 ## 📁 프로젝트 구조
 
 ```
-PAPER_SUMMARIZER/
-├── paper_agent.py      # 메인 애플리케이션
+paper_summary_agent/
+├──src
+│   └── paper_agent.py      # 메인 애플리케이션
 ├── requirements.txt    # 필요 패키지 목록
 ├── .env               # 환경 변수 (생성 필요)
 ├── .gitignore         # Git 무시 파일
